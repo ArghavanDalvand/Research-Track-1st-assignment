@@ -183,7 +183,7 @@ def find_gold_token():
       return code, dist, rot_y
 
 ## FlowChart
-![goldgrab](sr/flowchart.png)
+<img sr="flowchart.png">
 
 ## Possible improvements
 
