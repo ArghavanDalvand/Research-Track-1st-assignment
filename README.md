@@ -2,7 +2,7 @@
 
 [Università degli studi di Genova](https://unige.it/en/ "University of Genoa")
 
-Student: Seyed Emad Razavi | 5782734 | Robotics Engineering 
+Seyed Emad Razavi | 5782734 | Robotics Engineering 
 
 1st assignment of Research Track 1: Python Robotics Simulator
 ================================
